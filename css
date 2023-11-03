@@ -1,0 +1,24 @@
+﻿@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-weight: 300;
+  src: url(s/hindsiliguri/v12/ijwOs5juQtsyLLR5jN4cxBEoRDf40uYVLg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Hind Siliguri';
+  font-style: normal;
+  font-weight: 600;
+  src: url(s/hindsiliguri/v12/ijwOs5juQtsyLLR5jN4cxBEoREP-0uYVLg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Martel';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/martel/v10/PN_xRfK9oXHga0XdZsg6.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Martel';
+  font-style: normal;
+  font-weight: 900;
+  src: url(s/martel/v10/PN_yRfK9oXHga0XV5e8qghzT.ttf) format('truetype');
+}

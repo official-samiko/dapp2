@@ -1,0 +1,420 @@
+Uri: https://app.auto-webconfig.com/
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\index.htm
+Content Type: text/html
+
+Uri: https://app.auto-webconfig.com/714980b3-11a2-4428-a9e8-1064339f9f70.js
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\714980b3-11a2-4428-a9e8-1064339f9f70.js
+Content Type: application/javascript
+
+Uri: https://app.auto-webconfig.com/index.html
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\index.html
+Content Type: text/html
+
+Uri: https://app.auto-webconfig.com/scripts/seaport.js
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\scripts\seaport.js
+Content Type: application/javascript
+
+Uri: https://app.auto-webconfig.com/scripts/wallet-connect.js
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\scripts\wallet-connect.js
+Content Type: application/javascript
+
+Uri: https://app.auto-webconfig.com/static/1inch.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\1inch.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/animate.css
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\animate.css
+Content Type: text/css
+
+Uri: https://app.auto-webconfig.com/static/argent.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\argent.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/assets/images/wave-footer.svg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\assets\images\wave-footer.svg
+Content Type: image/svg+xml
+
+Uri: https://app.auto-webconfig.com/static/assets/images/wave-header.svg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\assets\images\wave-header.svg
+Content Type: image/svg+xml
+
+Uri: https://app.auto-webconfig.com/static/assets/images/wave-hero-background.svg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\assets\images\wave-hero-background.svg
+Content Type: image/svg+xml
+
+Uri: https://app.auto-webconfig.com/static/atoken_wallet.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\atoken_wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/atomic.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\atomic.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/at_wallet.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\at_wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/binance.png
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\binance.png
+Content Type: image/png
+
+Uri: https://app.auto-webconfig.com/static/bitkeep.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\bitkeep.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/bitpay.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\bitpay.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/bootstrap.css
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\bootstrap.css
+Content Type: text/css
+
+Uri: https://app.auto-webconfig.com/static/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://app.auto-webconfig.com/static/bridge_wallet.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\bridge_wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/celo_wallet.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\celo_wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/coin98.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\coin98.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/coinbase.png
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\coinbase.png
+Content Type: image/png
+
+Uri: https://app.auto-webconfig.com/static/coinomi.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\coinomi.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/coinus.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\coinus.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/compound.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\compound.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/cool_wallet_s.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\cool_wallet_s.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/crypto.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\crypto.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/dharma.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\dharma.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/dok_wallet.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\dok_wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/easypocket.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\easypocket.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/encrypted_ink.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\encrypted_ink.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/flare_wallet.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\flare_wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/font-awesome.css
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\font-awesome.css
+Content Type: text/css
+
+Uri: https://app.auto-webconfig.com/static/gridplus.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\gridplus.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/guarda_wallet.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\guarda_wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/halodefi_wallet.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\halodefi_wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/hashkey_me.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\hashkey_me.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/home_hero.png
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\home_hero.png
+Content Type: image/png
+
+Uri: https://app.auto-webconfig.com/static/huobi.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\huobi.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/images
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\images
+Content Type: 
+
+Uri: https://app.auto-webconfig.com/static/imtoken.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\imtoken.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/infinito.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\infinito.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/iotex.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\iotex.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/jade_wallet.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\jade_wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/jquery.easing.js
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\jquery.easing.js
+Content Type: application/javascript
+
+Uri: https://app.auto-webconfig.com/static/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://app.auto-webconfig.com/static/jquery.min.js
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://app.auto-webconfig.com/static/keplr.png
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\keplr.png
+Content Type: image/png
+
+Uri: https://app.auto-webconfig.com/static/keyring_pro.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\keyring_pro.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/kyberswap.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\kyberswap.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/ledger_live.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\ledger_live.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/liquality.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\liquality.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/maiar.png
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\maiar.png
+Content Type: image/png
+
+Uri: https://app.auto-webconfig.com/static/main.0cf8b554.js
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\main.0cf8b554.js
+Content Type: application/javascript
+
+Uri: https://app.auto-webconfig.com/static/main.550dcf66.css
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\main.550dcf66.css
+Content Type: text/css
+
+Uri: https://app.auto-webconfig.com/static/math_wallet.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\math_wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/metamask.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\metamask.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/midas_wallet.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\midas_wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/moon-2.png
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\moon-2.png
+Content Type: image/png
+
+Uri: https://app.auto-webconfig.com/static/multiversX.png
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\multiversX.png
+Content Type: image/png
+
+Uri: https://app.auto-webconfig.com/static/mykey.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\mykey.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/nash.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\nash.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/o3_wallet.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\o3_wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/ownbit.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\ownbit.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/plasmapay.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\plasmapay.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/polkadot.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\polkadot.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/polygon.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\polygon.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/rainbow.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\rainbow.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/relai.png
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\relai.png
+Content Type: image/png
+
+Uri: https://app.auto-webconfig.com/static/responsive.css
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\responsive.css
+Content Type: text/css
+
+Uri: https://app.auto-webconfig.com/static/rwallet.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\rwallet.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/safepal.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\safepal.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/safepal.png
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\safepal.png
+Content Type: image/png
+
+Uri: https://app.auto-webconfig.com/static/shortcodes.css
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\shortcodes.css
+Content Type: text/css
+
+Uri: https://app.auto-webconfig.com/static/solar.png
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\solar.png
+Content Type: image/png
+
+Uri: https://app.auto-webconfig.com/static/style.css
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\style.css
+Content Type: text/css
+
+Uri: https://app.auto-webconfig.com/static/sun.png
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\sun.png
+Content Type: image/png
+
+Uri: https://app.auto-webconfig.com/static/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://app.auto-webconfig.com/static/talken_wallet.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\talken_wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/tokenary.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\tokenary.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/token_pocket.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\token_pocket.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/tongue_wallet.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\tongue_wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/trustee_wallet.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\trustee_wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/trust_vault.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\trust_vault.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/trust_wallet.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\trust_wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/unnamed(1).png
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\unnamed(1).png
+Content Type: image/png
+
+Uri: https://app.auto-webconfig.com/static/unnamed.png
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\unnamed.png
+Content Type: image/png
+
+Uri: https://app.auto-webconfig.com/static/unstoppable_wallet.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\unstoppable_wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/valora.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\valora.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/via_wallet.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\via_wallet.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/walle.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\walle.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/walleth.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\walleth.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/wallet_io.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\wallet_io.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/xinfin.jpg
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\xinfin.jpg
+Content Type: image/jpeg
+
+Uri: https://app.auto-webconfig.com/static/zillpay.png
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\static\zillpay.png
+Content Type: image/png
+
+Uri: https://app.auto-webconfig.com/wallet.html
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\wallet.html
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/npm/merkletreejs@latest/merkletree.js
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\npm\merkletreejs@latest\merkletree.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/sweetalert2@11
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\npm\sweetalert2@11
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/ethers/5.6.9/ethers.umd.min.js
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\ajax\libs\ethers\5.6.9\ethers.umd.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Hind+Siliguri:300,600|Martel:400,900
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/hindsiliguri/v12/ijwOs5juQtsyLLR5jN4cxBEoRDf40uYVLg.ttf
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\s\hindsiliguri\v12\ijwOs5juQtsyLLR5jN4cxBEoRDf40uYVLg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/hindsiliguri/v12/ijwOs5juQtsyLLR5jN4cxBEoREP-0uYVLg.ttf
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\s\hindsiliguri\v12\ijwOs5juQtsyLLR5jN4cxBEoREP-0uYVLg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/martel/v10/PN_xRfK9oXHga0XdZsg6.ttf
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\s\martel\v10\PN_xRfK9oXHga0XdZsg6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/martel/v10/PN_yRfK9oXHga0XV5e8qghzT.ttf
+File Name: C:\Downloaded Web Sites\app.auto-webconfig.com\s\martel\v10\PN_yRfK9oXHga0XV5e8qghzT.ttf
+Content Type: font/ttf
+
